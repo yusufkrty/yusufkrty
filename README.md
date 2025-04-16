@@ -57,17 +57,7 @@
   <img width="12" />
  
   <img width="12" />
-  <a
-    href="https://nextjs.org/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-      height="40"
-      alt="nextjs logo"
-    />
-  </a>
+ <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
   
   <img width="12" />
   <a
